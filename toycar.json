@@ -1,598 +1,598 @@
 [
     {
       "id": 1,
-      "Seller": "John",
-      "Toy Name": "Action Figure",
-      "Sub-category": "Action Figures",
-      "Price": 15.99,
-      "Available Quantity": 10,
-      "View Details": "https://example.com/toy/1"
+      "seller": "John",
+      "toyname": "Action Figure",
+      "subcategory": "Action Figures",
+      "price": 15.99,
+      "availablequantity": 10,
+      "picture": "https://i.ibb.co/QMrvp2g/H0a80fc35795145399616b745b500f684-W-jpg-960x960.webp"
     },
     {
       "id": 2,
-      "Seller": "Emily",
-      "Toy Name": "Stuffed Bear",
-      "Sub-category": "Plush Toys",
-      "Price": 9.99,
-      "Available Quantity": 5,
-      "View Details": "https://example.com/toy/2"
+      "seller": "Emily",
+      "toyname": "Stuffed Bear",
+      "subcategory": "Plush Toys",
+      "price": 9.99,
+      "availablequantity": 5,
+      "picture": "https://i.ibb.co/mrp0PMs/H1ecb311d56004da59264f77d52fad38d-D-jpg-960x960.webp"
     },
     {
       "id": 3,
-      "Seller": "Michael",
-      "Toy Name": "Building Blocks",
-      "Sub-category": "Construction Toys",
-      "Price": 19.99,
-      "Available Quantity": 8,
-      "View Details": "https://example.com/toy/3"
+      "seller": "Michael",
+      "toyname": "Building Blocks",
+      "subcategory": "Construction Toys",
+      "price": 19.99,
+      "availablequantity": 8,
+      "picture": "ttps://i.ibb.co/ysxVzWF/H52fe2c89895f4bb9b33b15b23dbed39a-Y-jpg-960x960.webp"
     },
     {
       "id": 4,
-      "Seller": "Jessica",
-      "Toy Name": "Dollhouse",
-      "Sub-category": "Dolls & Accessories",
-      "Price": 49.99,
-      "Available Quantity": 3,
-      "View Details": "https://example.com/toy/4"
+      "seller": "Jessica",
+      "toyname": "Dollhouse",
+      "subcategory": "Dolls & Accessories",
+      "price": 49.99,
+      "availablequantity": 3,
+      "picture": "https://i.ibb.co/mrp0PMs/H1ecb311d56004da59264f77d52fad38d-D-jpg-960x960.webp"
     },
     {
       "id": 5,
-      "Seller": "David",
-      "Toy Name": "Puzzle Set",
-      "Sub-category": "Educational Toys",
-      "Price": 12.99,
-      "Available Quantity": 15,
-      "View Details": "https://example.com/toy/5"
+      "seller": "David",
+      "toyname": "Puzzle Set",
+      "subcategory": "Educational Toys",
+      "price": 12.99,
+      "availablequantity": 15,
+      "picture": "https://i.ibb.co/QMrvp2g/H0a80fc35795145399616b745b500f684-W-jpg-960x960.webp"
     },
     {
       "id": 6,
-      "Seller": "Olivia",
-      "Toy Name": "Art Kit",
-      "Sub-category": "Arts & Crafts",
-      "Price": 24.99,
-      "Available Quantity": 7,
-      "View Details": "https://example.com/toy/6"
+      "seller": "Olivia",
+      "toyname": "Art Kit",
+      "subcategory": "Arts & Crafts",
+      "price": 24.99,
+      "availablequantity": 7,
+      "picture": "https://i.ibb.co/0QPG08Z/H9640ba2f0fd74308ab9959326e9ad9811-jpg-960x960.webp"
     },
     {
       "id": 7,
-      "Seller": "Benjamin",
-      "Toy Name": "Remote Control Helicopter",
-      "Sub-category": "RC Vehicles",
-      "Price": 39.99,
-      "Available Quantity": 4,
-      "View Details": "https://example.com/toy/7"
+      "seller": "Benjamin",
+      "toyname": "Remote Control Helicopter",
+      "subcategory": "RC Vehicles",
+      "price": 39.99,
+      "availablequantity": 4,
+      "picture": "https://i.ibb.co/mrp0PMs/H1ecb311d56004da59264f77d52fad38d-D-jpg-960x960.webp"
     },
     {
       "id": 8,
-      "Seller": "Sophia",
-      "Toy Name": "Musical Keyboard",
-      "Sub-category": "Musical Instruments",
-      "Price": 29.99,
-      "Available Quantity": 6,
-      "View Details": "https://example.com/toy/8"
+      "seller": "Sophia",
+      "toyname": "Musical Keyboard",
+      "subcategory": "Musical Instruments",
+      "price": 29.99,
+      "availablequantity": 6,
+      "picture": "https://i.ibb.co/zfg3zvR/H71d926d4eab840d8ab87ed27851de2ef-O-jpg-250x250.webp"
     },
     {
       "id": 9,
-      "Seller": "Henry",
-      "Toy Name": "Robot Toy",
-      "Sub-category": "Electronic Toys",
-      "Price": 59.99,
-      "Available Quantity": 2,
-      "View Details": "https://example.com/toy/9"
+      "seller": "Henry",
+      "toyname": "Robot Toy",
+      "subcategory": "Electronic Toys",
+      "price": 59.99,
+      "availablequantity": 2,
+      "picture": "https://i.ibb.co/0QPG08Z/H9640ba2f0fd74308ab9959326e9ad9811-jpg-960x960.webp"
     },
     {
       "id": 10,
-      "Seller": "Lily",
-      "Toy Name": "Teddy Bear",
-      "Sub-category": "Plush Toys",
-      "Price": 7.99,
-      "Available Quantity": 12,
-      "View Details": "https://example.com/toy/10"
+      "seller": "Lily",
+      "toyname": "Teddy Bear",
+      "subcategory": "Plush Toys",
+      "price": 7.99,
+      "availablequantity": 12,
+      "picture": "https://i.ibb.co/QMrvp2g/H0a80fc35795145399616b745b500f684-W-jpg-960x960.webp"
     },
     {
       "id": 11,
-      "Seller": "Daniel",
-      "Toy Name": "Lego Set",
-      "Sub-category": "Construction Toys",
-      "Price": 32.99,
-      "Available Quantity": 12,
-      "View Details": "https://example.com/toy/10"
+      "seller": "Daniel",
+      "toyname": "Lego Set",
+      "subcategory": "Construction Toys",
+      "price": 32.99,
+      "availablequantity": 12,
+      "picture": "ttps://i.ibb.co/ysxVzWF/H52fe2c89895f4bb9b33b15b23dbed39a-Y-jpg-960x960.webp"
     },
   {
     "id": 12,
-    "Seller": "John",
-    "Toy Name": "Action Figure",
-    "Sub-category": "Action Figures",
-    "Price": 15.99,
-    "Available Quantity": 10,
-    "View Details": "https://example.com/toy/1"
+    "seller": "John",
+    "toyname": "Action Figure",
+    "subcategory": "Action Figures",
+    "price": 15.99,
+    "availablequantity": 10,
+    "picture": "https://i.ibb.co/mrp0PMs/H1ecb311d56004da59264f77d52fad38d-D-jpg-960x960.webp"
   },
   {
     "id": 13,
-    "Seller": "Emily",
-    "Toy Name": "Stuffed Bear",
-    "Sub-category": "Plush Toys",
-    "Price": 9.99,
-    "Available Quantity": 5,
-    "View Details": "https://example.com/toy/2"
+    "seller": "Emily",
+    "toyname": "Stuffed Bear",
+    "subcategory": "Plush Toys",
+    "price": 9.99,
+    "availablequantity": 5,
+    "picture": "https://i.ibb.co/zfg3zvR/H71d926d4eab840d8ab87ed27851de2ef-O-jpg-250x250.webp"
   },
   {
     "id": 14,
-    "Seller": "Michael",
-    "Toy Name": "Building Blocks",
-    "Sub-category": "Construction Toys",
-    "Price": 19.99,
-    "Available Quantity": 8,
-    "View Details": "https://example.com/toy/3"
+    "seller": "Michael",
+    "toyname": "Building Blocks",
+    "subcategory": "Construction Toys",
+    "price": 19.99,
+    "availablequantity": 8,
+    "picture": "https://i.ibb.co/QMrvp2g/H0a80fc35795145399616b745b500f684-W-jpg-960x960.webp"
   },
   {
     "id": 15,
-    "Seller": "Jessica",
-    "Toy Name": "Dollhouse",
-    "Sub-category": "Dolls & Accessories",
-    "Price": 49.99,
-    "Available Quantity": 3,
-    "View Details": "https://example.com/toy/4"
+    "seller": "Jessica",
+    "toyname": "Dollhouse",
+    "subcategory": "Dolls & Accessories",
+    "price": 49.99,
+    "availablequantity": 3,
+    "picture": "https://i.ibb.co/0QPG08Z/H9640ba2f0fd74308ab9959326e9ad9811-jpg-960x960.webp"
   },
   {
     "id": 16,
-    "Seller": "David",
-    "Toy Name": "Puzzle Set",
-    "Sub-category": "Educational Toys",
-    "Price": 12.99,
-    "Available Quantity": 15,
-    "View Details": "https://example.com/toy/5"
+    "seller": "David",
+    "toyname": "Puzzle Set",
+    "subcategory": "Educational Toys",
+    "price": 12.99,
+    "availablequantity": 15,
+    "picture": "https://i.ibb.co/mrp0PMs/H1ecb311d56004da59264f77d52fad38d-D-jpg-960x960.webp"
   },
   {
     "id": 17,
-    "Seller": "Olivia",
-    "Toy Name": "Art Kit",
-    "Sub-category": "Arts & Crafts",
-    "Price": 24.99,
-    "Available Quantity": 7,
-    "View Details": "https://example.com/toy/6"
+    "seller": "Olivia",
+    "toyname": "Art Kit",
+    "subcategory": "Arts & Crafts",
+    "price": 24.99,
+    "availablequantity": 7,
+    "picture": "https://i.ibb.co/cxYmNmc/H358b75e7dcf042c1b15e0af1085fb3022-jpg-250x250.webp"
   },
   {
     "id": 18,
-    "Seller": "Benjamin",
-    "Toy Name": "Remote Control Helicopter",
-    "Sub-category": "RC Vehicles",
-    "Price": 39.99,
-    "Available Quantity": 4,
-    "View Details": "https://example.com/toy/7"
+    "seller": "Benjamin",
+    "toyname": "Remote Control Helicopter",
+    "subcategory": "RC Vehicles",
+    "price": 39.99,
+    "availablequantity": 4,
+    "picture": "https://i.ibb.co/0M7THBt/H1f67802398f84d1992085ee396c232037-jpg-250x250.webp"
   },
   {
     "id": 19,
-    "Seller": "Sophia",
-    "Toy Name": "Musical Keyboard",
-    "Sub-category": "Musical Instruments",
-    "Price": 29.99,
-    "Available Quantity": 6,
-    "View Details": "https://example.com/toy/8"
+    "seller": "Sophia",
+    "toyname": "Musical Keyboard",
+    "subcategory": "Musical Instruments",
+    "price": 29.99,
+    "availablequantity": 6,
+    "picture": "https://i.ibb.co/QMrvp2g/H0a80fc35795145399616b745b500f684-W-jpg-960x960.webp"
   },
   {
     "id": 20,
-    "Seller": "Henry",
-    "Toy Name": "Robot Toy",
-    "Sub-category": "Electronic Toys",
-    "Price": 59.99,
-    "Available Quantity": 2,
-    "View Details": "https://example.com/toy/9"
+    "seller": "Henry",
+    "toyname": "Robot Toy",
+    "subcategory": "Electronic Toys",
+    "price": 59.99,
+    "availablequantity": 2,
+    "picture": "https://i.ibb.co/rQx0DbZ/Ha78dc000c32f46ce95eb988983be41e1d-jpg-250x250.webp"
   },
   {
     "id": 21,
-    "Seller": "Lily",
-    "Toy Name": "Teddy Bear",
-    "Sub-category": "Plush Toys",
-    "Price": 7.99,
-    "Available Quantity": 12,
-    "View Details": "https://example.com/toy/10"
+    "seller": "Lily",
+    "toyname": "Teddy Bear",
+    "subcategory": "Plush Toys",
+    "price": 7.99,
+    "availablequantity": 12,
+    "picture": "https://i.ibb.co/vq80dnZ/H9fdcea6b78d1435ca6996ccecf64b5fac-jpg-250x250.webp"
   },
   {
     "id": 22,
-    "Seller": "Daniel",
-    "Toy Name": "Lego Set",
-    "Sub-category": "Construction Toys",
-    "Price": 32.99,
-    "Available Quantity": 12,
-    "View Details": "https://example.com/toy/10"
+    "seller": "Daniel",
+    "toyname": "Lego Set",
+    "subcategory": "Construction Toys",
+    "price": 32.99,
+    "availablequantity": 12,
+    "picture": "https://i.ibb.co/fDmxL1x/H6593ce7bfb5f470d86ed7eb71de7879c-H-jpg-250x250.webp"
   },
 
     {
       "id": 23,
-      "Seller": "John",
-      "Toy Name": "Action Figure",
-      "Sub-category": "Action Figures",
-      "Price": 15.99,
-      "Available Quantity": 10,
-      "View Details": "https://example.com/toy/1"
+      "seller": "John",
+      "toyname": "Action Figure",
+      "subcategory": "Action Figures",
+      "price": 15.99,
+      "availablequantity": 10,
+      "picture": "https://i.ibb.co/0M7THBt/H1f67802398f84d1992085ee396c232037-jpg-250x250.webp"
     },
     {
       "id": 24,
-      "Seller": "Emily",
-      "Toy Name": "Stuffed Bear",
-      "Sub-category": "Plush Toys",
-      "Price": 9.99,
-      "Available Quantity": 5,
-      "View Details": "https://example.com/toy/2"
+      "seller": "Emily",
+      "toyname": "Stuffed Bear",
+      "subcategory": "Plush Toys",
+      "price": 9.99,
+      "availablequantity": 5,
+      "picture": "https://i.ibb.co/QMrvp2g/H0a80fc35795145399616b745b500f684-W-jpg-960x960.webp"
     },
     {
       "id": 25,
-      "Seller": "Michael",
-      "Toy Name": "Building Blocks",
-      "Sub-category": "Construction Toys",
-      "Price": 19.99,
-      "Available Quantity": 8,
-      "View Details": "https://example.com/toy/3"
+      "seller": "Michael",
+      "toyname": "Building Blocks",
+      "subcategory": "Construction Toys",
+      "price": 19.99,
+      "availablequantity": 8,
+      "picture": "https://i.ibb.co/rQx0DbZ/Ha78dc000c32f46ce95eb988983be41e1d-jpg-250x250.webp"
     },
     {
       "id": 26,
-      "Seller": "Jessica",
-      "Toy Name": "Dollhouse",
-      "Sub-category": "Dolls & Accessories",
-      "Price": 49.99,
-      "Available Quantity": 3,
-      "View Details": "https://example.com/toy/4"
+      "seller": "Jessica",
+      "toyname": "Dollhouse",
+      "subcategory": "Dolls & Accessories",
+      "price": 49.99,
+      "availablequantity": 3,
+      "picture": "https://i.ibb.co/HKG5KCq/H699dde0b2d854bb2b1090f6391b8d0b6e-jpg-250x250.webp"
     },
     {
       "id": 27,
-      "Seller": "David",
-      "Toy Name": "Puzzle Set",
-      "Sub-category": "Educational Toys",
-      "Price": 12.99,
-      "Available Quantity": 15,
-      "View Details": "https://example.com/toy/5"
+      "seller": "David",
+      "toyname": "Puzzle Set",
+      "subcategory": "Educational Toys",
+      "price": 12.99,
+      "availablequantity": 15,
+      "picture": "https://i.ibb.co/rQx0DbZ/Ha78dc000c32f46ce95eb988983be41e1d-jpg-250x250.webp"
     },
     {
       "id": 28,
-      "Seller": "Olivia",
-      "Toy Name": "Art Kit",
-      "Sub-category": "Arts & Crafts",
-      "Price": 24.99,
-      "Available Quantity": 7,
-      "View Details": "https://example.com/toy/6"
+      "seller": "Olivia",
+      "toyname": "Art Kit",
+      "subcategory": "Arts & Crafts",
+      "price": 24.99,
+      "availablequantity": 7,
+      "picture": "https://i.ibb.co/QMrvp2g/H0a80fc35795145399616b745b500f684-W-jpg-960x960.webp"
     },
     {
       "id": 29,
-      "Seller": "Benjamin",
-      "Toy Name": "Remote Control Helicopter",
-      "Sub-category": "RC Vehicles",
-      "Price": 39.99,
-      "Available Quantity": 4,
-      "View Details": "https://example.com/toy/7"
+      "seller": "Benjamin",
+      "toyname": "Remote Control Helicopter",
+      "subcategory": "RC Vehicles",
+      "price": 39.99,
+      "availablequantity": 4,
+      "picture": "https://i.ibb.co/fDmxL1x/H6593ce7bfb5f470d86ed7eb71de7879c-H-jpg-250x250.webp"
     },
     {
       "id": 30,
-      "Seller": "Sophia",
-      "Toy Name": "Musical Keyboard",
-      "Sub-category": "Musical Instruments",
-      "Price": 29.99,
-      "Available Quantity": 6,
-      "View Details": "https://example.com/toy/8"
+      "seller": "Sophia",
+      "toyname": "Musical Keyboard",
+      "subcategory": "Musical Instruments",
+      "price": 29.99,
+      "availablequantity": 6,
+      "picture": "https://i.ibb.co/rQx0DbZ/Ha78dc000c32f46ce95eb988983be41e1d-jpg-250x250.webp"
     },
     {
       "id": 31,
-      "Seller": "Henry",
-      "Toy Name": "Robot Toy",
-      "Sub-category": "Electronic Toys",
-      "Price": 59.99,
-      "Available Quantity": 2,
-      "View Details": "https://example.com/toy/9"
+      "seller": "Henry",
+      "toyname": "Robot Toy",
+      "subcategory": "Electronic Toys",
+      "price": 59.99,
+      "availablequantity": 2,
+      "picture": "https://i.ibb.co/HKG5KCq/H699dde0b2d854bb2b1090f6391b8d0b6e-jpg-250x250.webp"
     },
     {
       "id": 32,
-      "Seller": "Lily",
-      "Toy Name": "Teddy Bear",
-      "Sub-category": "Plush Toys",
-      "Price": 7.99,
-      "Available Quantity": 12,
-      "View Details": "https://example.com/toy/10"
+      "seller": "Lily",
+      "toyname": "Teddy Bear",
+      "subcategory": "Plush Toys",
+      "price": 7.99,
+      "availablequantity": 12,
+      "picture": "https://i.ibb.co/VLKYBnY/Hb624a4cdcd1e4f10a1dfde4fc507dc41-W-jpg-960x960.webp"
     },
     {
       "id": 33,
-      "Seller": "Daniel",
-      "Toy Name": "Lego Set",
-      "Sub-category": "Construction Toys",
-      "Price": 32.99,
-      "Available Quantity": 12,
-      "View Details": "https://example.com/toy/10"
+      "seller": "Daniel",
+      "toyname": "Lego Set",
+      "subcategory": "Construction Toys",
+      "price": 32.99,
+      "availablequantity": 12,
+      "picture": "https://i.ibb.co/fDmxL1x/H6593ce7bfb5f470d86ed7eb71de7879c-H-jpg-250x250.webp"
     },
   {
     "id": 34,
-    "Seller": "John",
-    "Toy Name": "Action Figure",
-    "Sub-category": "Action Figures",
-    "Price": 15.99,
-    "Available Quantity": 10,
-    "View Details": "https://example.com/toy/1"
+    "seller": "John",
+    "toyname": "Action Figure",
+    "subcategory": "Action Figures",
+    "price": 15.99,
+    "availablequantity": 10,
+    "picture": "https://i.ibb.co/QMrvp2g/H0a80fc35795145399616b745b500f684-W-jpg-960x960.webp"
   },
   {
     "id": 35,
-    "Seller": "Emily",
-    "Toy Name": "Stuffed Bear",
-    "Sub-category": "Plush Toys",
-    "Price": 9.99,
-    "Available Quantity": 5,
-    "View Details": "https://example.com/toy/2"
+    "seller": "Emily",
+    "toyname": "Stuffed Bear",
+    "subcategory": "Plush Toys",
+    "price": 9.99,
+    "availablequantity": 5,
+    "picture": "https://i.ibb.co/VLKYBnY/Hb624a4cdcd1e4f10a1dfde4fc507dc41-W-jpg-960x960.webp"
   },
   {
     "id": 36,
-    "Seller": "Michael",
-    "Toy Name": "Building Blocks",
-    "Sub-category": "Construction Toys",
-    "Price": 19.99,
-    "Available Quantity": 8,
-    "View Details": "https://example.com/toy/3"
+    "seller": "Michael",
+    "toyname": "Building Blocks",
+    "subcategory": "Construction Toys",
+    "price": 19.99,
+    "availablequantity": 8,
+    "picture": "https://i.ibb.co/NrLNFJZ/H907df7b36c4b4606b003101e2fc7aacer-jpg-250x250.webp"
   },
   {
     "id": 37,
-    "Seller": "Jessica",
-    "Toy Name": "Dollhouse",
-    "Sub-category": "Dolls & Accessories",
-    "Price": 49.99,
-    "Available Quantity": 3,
-    "View Details": "https://example.com/toy/4"
+    "seller": "Jessica",
+    "toyname": "Dollhouse",
+    "subcategory": "Dolls & Accessories",
+    "price": 49.99,
+    "availablequantity": 3,
+    "picture": "https://i.ibb.co/0M7THBt/H1f67802398f84d1992085ee396c232037-jpg-250x250.webp"
   },
   {
     "id": 38,
-    "Seller": "David",
-    "Toy Name": "Puzzle Set",
-    "Sub-category": "Educational Toys",
-    "Price": 12.99,
-    "Available Quantity": 15,
-    "View Details": "https://example.com/toy/5"
+    "seller": "David",
+    "toyname": "Puzzle Set",
+    "subcategory": "Educational Toys",
+    "price": 12.99,
+    "availablequantity": 15,
+    "picture": "https://i.ibb.co/vq80dnZ/H9fdcea6b78d1435ca6996ccecf64b5fac-jpg-250x250.webp"
   },
   {
     "id": 39,
-    "Seller": "Olivia",
-    "Toy Name": "Art Kit",
-    "Sub-category": "Arts & Crafts",
-    "Price": 24.99,
-    "Available Quantity": 7,
-    "View Details": "https://example.com/toy/6"
+    "seller": "Olivia",
+    "toyname": "Art Kit",
+    "subcategory": "Arts & Crafts",
+    "price": 24.99,
+    "availablequantity": 7,
+    "picture": "https://i.ibb.co/NVYg0jK/H6d3d5e03e2a04e22a1f93a435b1b28b90-jpg-960x960.webp"
   },
   {
     "id": 40,
-    "Seller": "Benjamin",
-    "Toy Name": "Remote Control Helicopter",
-    "Sub-category": "RC Vehicles",
-    "Price": 39.99,
-    "Available Quantity": 4,
-    "View Details": "https://example.com/toy/7"
+    "seller": "Benjamin",
+    "toyname": "Remote Control Helicopter",
+    "subcategory": "RC Vehicles",
+    "price": 39.99,
+    "availablequantity": 4,
+    "picture": "https://i.ibb.co/VLKYBnY/Hb624a4cdcd1e4f10a1dfde4fc507dc41-W-jpg-960x960.webp"
   },
   {
     "id": 41,
-    "Seller": "Sophia",
-    "Toy Name": "Musical Keyboard",
-    "Sub-category": "Musical Instruments",
-    "Price": 29.99,
-    "Available Quantity": 6,
-    "View Details": "https://example.com/toy/8"
+    "seller": "Sophia",
+    "toyname": "Musical Keyboard",
+    "subcategory": "Musical Instruments",
+    "price": 29.99,
+    "availablequantity": 6,
+    "picture": "https://i.ibb.co/QMrvp2g/H0a80fc35795145399616b745b500f684-W-jpg-960x960.webp"
   },
   {
     "id": 42,
-    "Seller": "Henry",
-    "Toy Name": "Robot Toy",
-    "Sub-category": "Electronic Toys",
-    "Price": 59.99,
-    "Available Quantity": 2,
-    "View Details": "https://example.com/toy/9"
+    "seller": "Henry",
+    "toyname": "Robot Toy",
+    "subcategory": "Electronic Toys",
+    "price": 59.99,
+    "availablequantity": 2,
+    "picture": "https://i.ibb.co/VLKYBnY/Hb624a4cdcd1e4f10a1dfde4fc507dc41-W-jpg-960x960.webp"
   },
   {
     "id": 43,
-    "Seller": "Lily",
-    "Toy Name": "Teddy Bear",
-    "Sub-category": "Plush Toys",
-    "Price": 7.99,
-    "Available Quantity": 12,
-    "View Details": "https://example.com/toy/10"
+    "seller": "Lily",
+    "toyname": "Teddy Bear",
+    "subcategory": "Plush Toys",
+    "price": 7.99,
+    "availablequantity": 12,
+    "picture": "https://i.ibb.co/vq80dnZ/H9fdcea6b78d1435ca6996ccecf64b5fac-jpg-250x250.webp"
   },
   {
     "id": 44,
-    "Seller": "Daniel",
-    "Toy Name": "Lego Set",
-    "Sub-category": "Construction Toys",
-    "Price": 32.99,
-    "Available Quantity": 12,
-    "View Details": "https://example.com/toy/10"
+    "seller": "Daniel",
+    "toyname": "Lego Set",
+    "subcategory": "Construction Toys",
+    "price": 32.99,
+    "availablequantity": 12,
+    "picture": "https://i.ibb.co/VLKYBnY/Hb624a4cdcd1e4f10a1dfde4fc507dc41-W-jpg-960x960.webp"
   },
     {
       "id": 45,
-      "Seller": "John",
-      "Toy Name": "Action Figure",
-      "Sub-category": "Action Figures",
-      "Price": 15.99,
-      "Available Quantity": 10,
-      "View Details": "https://example.com/toy/1"
+      "seller": "John",
+      "toyname": "Action Figure",
+      "subcategory": "Action Figures",
+      "price": 15.99,
+      "availablequantity": 10,
+      "picture": "https://i.ibb.co/b6FCbp9/Hb418800caa6c431780f993420c08a6c1r-jpg-250x250.webp"
     },
     {
       "id": 46,
-      "Seller": "Emily",
-      "Toy Name": "Stuffed Bear",
-      "Sub-category": "Plush Toys",
-      "Price": 9.99,
-      "Available Quantity": 5,
-      "View Details": "https://example.com/toy/2"
+      "seller": "Emily",
+      "toyname": "Stuffed Bear",
+      "subcategory": "Plush Toys",
+      "price": 9.99,
+      "availablequantity": 5,
+      "picture": "https://i.ibb.co/NVYg0jK/H6d3d5e03e2a04e22a1f93a435b1b28b90-jpg-960x960.webp"
     },
     {
       "id": 47,
-      "Seller": "Michael",
-      "Toy Name": "Building Blocks",
-      "Sub-category": "Construction Toys",
-      "Price": 19.99,
-      "Available Quantity": 8,
-      "View Details": "https://example.com/toy/3"
+      "seller": "Michael",
+      "toyname": "Building Blocks",
+      "subcategory": "Construction Toys",
+      "price": 19.99,
+      "availablequantity": 8,
+      "picture": "https://i.ibb.co/NrLNFJZ/H907df7b36c4b4606b003101e2fc7aacer-jpg-250x250.webp"
     },
     {
       "id": 48,
-      "Seller": "Jessica",
-      "Toy Name": "Dollhouse",
-      "Sub-category": "Dolls & Accessories",
-      "Price": 49.99,
-      "Available Quantity": 3,
-      "View Details": "https://example.com/toy/4"
+      "seller": "Jessica",
+      "toyname": "Dollhouse",
+      "subcategory": "Dolls & Accessories",
+      "price": 49.99,
+      "availablequantity": 3,
+      "picture": "https://i.ibb.co/b6FCbp9/Hb418800caa6c431780f993420c08a6c1r-jpg-250x250.webp"
     },
     {
       "id": 49,
-      "Seller": "David",
-      "Toy Name": "Puzzle Set",
-      "Sub-category": "Educational Toys",
-      "Price": 12.99,
-      "Available Quantity": 15,
-      "View Details": "https://example.com/toy/5"
+      "seller": "David",
+      "toyname": "Puzzle Set",
+      "subcategory": "Educational Toys",
+      "price": 12.99,
+      "availablequantity": 15,
+      "picture": "https://i.ibb.co/NVYg0jK/H6d3d5e03e2a04e22a1f93a435b1b28b90-jpg-960x960.webp"
     },
     {
       "id": 50,
-      "Seller": "Olivia",
-      "Toy Name": "Art Kit",
-      "Sub-category": "Arts & Crafts",
-      "Price": 24.99,
-      "Available Quantity": 7,
-      "View Details": "https://example.com/toy/6"
+      "seller": "Olivia",
+      "toyname": "Art Kit",
+      "subcategory": "Arts & Crafts",
+      "price": 24.99,
+      "availablequantity": 7,
+      "picture": "https://i.ibb.co/NrLNFJZ/H907df7b36c4b4606b003101e2fc7aacer-jpg-250x250.webp"
     },
     {
       "id": 51,
-      "Seller": "Benjamin",
-      "Toy Name": "Remote Control Helicopter",
-      "Sub-category": "RC Vehicles",
-      "Price": 39.99,
-      "Available Quantity": 4,
-      "View Details": "https://example.com/toy/7"
+      "seller": "Benjamin",
+      "toyname": "Remote Control Helicopter",
+      "subcategory": "RC Vehicles",
+      "price": 39.99,
+      "availablequantity": 4,
+      "picture": "https://i.ibb.co/b6FCbp9/Hb418800caa6c431780f993420c08a6c1r-jpg-250x250.webp"
     },
     {
       "id": 52,
-      "Seller": "Sophia",
-      "Toy Name": "Musical Keyboard",
-      "Sub-category": "Musical Instruments",
-      "Price": 29.99,
-      "Available Quantity": 6,
-      "View Details": "https://example.com/toy/8"
+      "seller": "Sophia",
+      "toyname": "Musical Keyboard",
+      "subcategory": "Musical Instruments",
+      "price": 29.99,
+      "availablequantity": 6,
+      "picture": "https://i.ibb.co/NVYg0jK/H6d3d5e03e2a04e22a1f93a435b1b28b90-jpg-960x960.webp"
     },
     {
       "id": 53,
-      "Seller": "Henry",
-      "Toy Name": "Robot Toy",
-      "Sub-category": "Electronic Toys",
-      "Price": 59.99,
-      "Available Quantity": 2,
-      "View Details": "https://example.com/toy/9"
+      "seller": "Henry",
+      "toyname": "Robot Toy",
+      "subcategory": "Electronic Toys",
+      "price": 59.99,
+      "availablequantity": 2,
+      "picture": "https://i.ibb.co/fHL9Y5p/Hc7163395fd3c4b78a96fcf2795e7922d-Z-jpg-250x250.webp"
     },
     {
       "id": 54,
-      "Seller": "Lily",
-      "Toy Name": "Teddy Bear",
-      "Sub-category": "Plush Toys",
-      "Price": 7.99,
-      "Available Quantity": 12,
-      "View Details": "https://example.com/toy/10"
+      "seller": "Lily",
+      "toyname": "Teddy Bear",
+      "subcategory": "Plush Toys",
+      "price": 7.99,
+      "availablequantity": 12,
+      "picture": "https://i.ibb.co/s6q6KXs/He986dc9aa2c34713b9b33151a147d6e2d-jpg-250x250.webp"
     },
     {
       "id": 55,
-      "Seller": "Daniel",
-      "Toy Name": "Lego Set",
-      "Sub-category": "Construction Toys",
-      "Price": 32.99,
-      "Available Quantity": 12,
-      "View Details": "https://example.com/toy/10"
+      "seller": "Daniel",
+      "toyname": "Lego Set",
+      "subcategory": "Construction Toys",
+      "price": 32.99,
+      "availablequantity": 12,
+      "picture": "https://i.ibb.co/NrLNFJZ/H907df7b36c4b4606b003101e2fc7aacer-jpg-250x250.webp"
     },
   {
     "id": 56,
-    "Seller": "John",
-    "Toy Name": "Action Figure",
-    "Sub-category": "Action Figures",
-    "Price": 15.99,
-    "Available Quantity": 10,
-    "View Details": "https://example.com/toy/1"
+    "seller": "John",
+    "toyname": "Action Figure",
+    "subcategory": "Action Figures",
+    "price": 15.99,
+    "availablequantity": 10,
+    "picture": "https://i.ibb.co/s6q6KXs/He986dc9aa2c34713b9b33151a147d6e2d-jpg-250x250.webp"
   },
   {
     "id": 57,
-    "Seller": "Emily",
-    "Toy Name": "Stuffed Bear",
-    "Sub-category": "Plush Toys",
-    "Price": 9.99,
-    "Available Quantity": 5,
-    "View Details": "https://example.com/toy/2"
+    "seller": "Emily",
+    "toyname": "Stuffed Bear",
+    "subcategory": "Plush Toys",
+    "price": 9.99,
+    "availablequantity": 5,
+    "picture": "https://i.ibb.co/MBsQzMM/H7d533ab22bef483ebfa65472e0faa0fe-F-jpg-250x250.webp"
   },
   {
     "id": 58,
-    "Seller": "Michael",
-    "Toy Name": "Building Blocks",
-    "Sub-category": "Construction Toys",
-    "Price": 19.99,
-    "Available Quantity": 8,
-    "View Details": "https://example.com/toy/3"
+    "seller": "Michael",
+    "toyname": "Building Blocks",
+    "subcategory": "Construction Toys",
+    "price": 19.99,
+    "availablequantity": 8,
+    "picture": "https://i.ibb.co/fHL9Y5p/Hc7163395fd3c4b78a96fcf2795e7922d-Z-jpg-250x250.webp"
   },
   {
     "id": 59,
-    "Seller": "Jessica",
-    "Toy Name": "Dollhouse",
-    "Sub-category": "Dolls & Accessories",
-    "Price": 49.99,
-    "Available Quantity": 3,
-    "View Details": "https://example.com/toy/4"
+    "seller": "Jessica",
+    "toyname": "Dollhouse",
+    "subcategory": "Dolls & Accessories",
+    "price": 49.99,
+    "availablequantity": 3,
+    "picture": "https://i.ibb.co/s6q6KXs/He986dc9aa2c34713b9b33151a147d6e2d-jpg-250x250.webp"
   },
   {
     "id": 60,
-    "Seller": "David",
-    "Toy Name": "Puzzle Set",
-    "Sub-category": "Educational Toys",
-    "Price": 12.99,
-    "Available Quantity": 15,
-    "View Details": "https://example.com/toy/5"
+    "seller": "David",
+    "toyname": "Puzzle Set",
+    "subcategory": "Educational Toys",
+    "price": 12.99,
+    "availablequantity": 15,
+    "picture": "https://i.ibb.co/MBsQzMM/H7d533ab22bef483ebfa65472e0faa0fe-F-jpg-250x250.webp"
   },
   {
     "id": 61,
-    "Seller": "Olivia",
-    "Toy Name": "Art Kit",
-    "Sub-category": "Arts & Crafts",
-    "Price": 24.99,
-    "Available Quantity": 7,
-    "View Details": "https://example.com/toy/6"
+    "seller": "Olivia",
+    "toyname": "Art Kit",
+    "subcategory": "Arts & Crafts",
+    "price": 24.99,
+    "availablequantity": 7,
+    "picture": "https://i.ibb.co/qLGw37W/H8f7f4f03441a4e7bacc7db43a7ed93ef8-jpg-960x960.webp"
   },
   {
     "id": 62,
-    "Seller": "Benjamin",
-    "Toy Name": "Remote Control Helicopter",
-    "Sub-category": "RC Vehicles",
-    "Price": 39.99,
-    "Available Quantity": 4,
-    "View Details": "https://example.com/toy/7"
+    "seller": "Benjamin",
+    "toyname": "Remote Control Helicopter",
+    "subcategory": "RC Vehicles",
+    "price": 39.99,
+    "availablequantity": 4,
+"picture":"https://i.ibb.co/sCB9fJV/Hf18dbccd6bed43e7909e3f3b996fae19q-jpg-250x250.webp"
   },
   {
     "id": 63,
-    "Seller": "Sophia",
-    "Toy Name": "Musical Keyboard",
-    "Sub-category": "Musical Instruments",
-    "Price": 29.99,
-    "Available Quantity": 6,
-    "View Details": "https://example.com/toy/8"
+    "seller": "Sophia",
+    "toyname": "Musical Keyboard",
+    "subcategory": "Musical Instruments",
+    "price": 29.99,
+    "availablequantity": 6,
+    "picture": "https://i.ibb.co/qLGw37W/H8f7f4f03441a4e7bacc7db43a7ed93ef8-jpg-960x960.webp"
   },
   {
     "id": 64,
-    "Seller": "Henry",
-    "Toy Name": "Robot Toy",
-    "Sub-category": "Electronic Toys",
-    "Price": 59.99,
-    "Available Quantity": 2,
-    "View Details": "https://example.com/toy/9"
+    "seller": "Henry",
+    "toyname": "Robot Toy",
+    "subcategory": "Electronic Toys",
+    "price": 59.99,
+    "availablequantity": 2,
+    "picture": "https://i.ibb.co/MBsQzMM/H7d533ab22bef483ebfa65472e0faa0fe-F-jpg-250x250.webp"
   },
   {
     "id": 65,
-    "Seller": "Lily",
-    "Toy Name": "Teddy Bear",
-    "Sub-category": "Plush Toys",
-    "Price": 7.99,
-    "Available Quantity": 12,
-    "View Details": "https://example.com/toy/10"
+    "seller": "Lily",
+    "toyname": "Teddy Bear",
+    "subcategory": "Plush Toys",
+    "price": 7.99,
+    "availablequantity": 12,
+    "picture": "https://i.ibb.co/pXK84vh/H782f278d4b7b4a69b8d9cf1d5e0a08f3h-jpg-250x250.webp"
   },
   {
     "id": 66,
-    "Seller": "Daniel",
-    "Toy Name": "Lego Set",
-    "Sub-category": "Construction Toys",
-    "Price": 32.99,
-    "Available Quantity": 12,
-    "View Details": "https://example.com/toy/10"
+    "seller": "Daniel",
+    "toyname": "Lego Set",
+    "subcategory": "Construction Toys",
+    "price": 32.99,
+    "availablequantity": 12,
+    "picture": "https://i.ibb.co/qLGw37W/H8f7f4f03441a4e7bacc7db43a7ed93ef8-jpg-960x960.webp"
   }
 ]
 
