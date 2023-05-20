@@ -27,6 +27,12 @@ async function run() {
     const database = client.db("toyDB");
     const carCollection = database.collection("toyData");
 
+    app.get('/toycardata', async(req, res) => {
+      const cursor = carCollection.find();
+      const result = await cursor.toArray();
+      res.send(result)
+    })
+
     app.post('/toycardata', async(req, res) => {
       const cardata = req.body;
       console.log('new car data', cardata);
